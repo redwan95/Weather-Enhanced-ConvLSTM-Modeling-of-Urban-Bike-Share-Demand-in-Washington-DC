@@ -245,16 +245,20 @@ This yields a 64×64 directed influence matrix per user type. Key derived metric
 
 If you use this code in your research, please cite:
 
+KABIR, S. M. R. (2026). Weather-Enhanced-ConvLSTM-Modeling-of-Urban-Bike-Share-Demand-in-Washington-DC. Zenodo. https://doi.org/10.5281/zenodo.19028765
+
 ```bibtex
-@article{author2026beyond,
-  title   = {Beyond Proximity: Spatial Dependency in Washington DC Bike-Sharing ---
-             Weather-Augmented ConvLSTM Evidence},
-  author  = {[Author Name(s)]},
-  journal = {Findings},
-  year    = {2026},
-  doi     = {[TO BE ASSIGNED]}
+@misc{kabir_2026_19028765,
+  author       = {KABIR, S M REDWAN},
+  title        = {Weather-Enhanced-ConvLSTM-Modeling-of-Urban-Bike-
+                   Share-Demand-in-Washington-DC
+                  },
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19028765},
+  url          = {https://doi.org/10.5281/zenodo.19028765},
 }
-```
 
 **Key reference this work extends:**
 ```bibtex
@@ -268,7 +272,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-Full BibTeX references are in [`references_bikeshare.bib`](references_bikeshare.bib).
 
 ---
 
